@@ -9,7 +9,7 @@
 4. Snipper : 원하는 이름  Language : C++ Shortcut : 원하는 이름
 	바꿀 내용 / 만들 내용
   
-   Snipper : fi  Language : C++ Shortcut : fi
+   Snipper : fastfor  Language : C++ Shortcut : fi
    ex)
    for (int i = 0; i < $length$; i++)
    {
@@ -17,3 +17,15 @@
    }
 
    $$ 붙히면 $$사이를 블록(드래그)
+
+
+
+중단점 설정
+
+1. 원하는 중단점에 중단점 설정 (f9)를 누른다.
+
+2. 디버깅(f5)을 누른다.
+
+3. 프로시저 단위 실행 (f10)을 누른다.
+
+4. 한 칸씩 바뀌는 값을 확인한다.
